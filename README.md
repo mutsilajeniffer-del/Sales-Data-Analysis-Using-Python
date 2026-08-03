@@ -62,5 +62,3 @@ Displays how sales changed over time.
 ## Author
 
 Jeniffer Mutsila
-
-Environmental Scientist | MSc Researcher | Data Science Bootcamp Student
